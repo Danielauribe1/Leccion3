@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: #CAA697;
+}
+div.contenedor{
+    width: 70%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid #f91d1d;
+    padding: 15px;
+    color: #43B5BA;
+    text-align: center;
+}
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1.0;
+}
