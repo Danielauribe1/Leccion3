@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 2px #d54807;
+    color: #423435;
+}
+div.contenedor{
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid #d54807;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px rgb(113, 112, 112);
+    color: #d54807;
+    border-radius: 15px;
+}
+
+div.fondo{
+background-color: #FFD4AB;
+}
+
+div.cuerpo{
+padding-top: 2px;
+font-size: 1.2em;
+font-weight: bolder;
+text-shadow: 2px 2px 2px rgb(177,177,177);
+}
+
+div.ejem{
+color: black;
+}
+
+div.tipodesombra1{
+    padding-top: 2px;
+    font-size: 1.2em;
+    font-weight: bolder;
+    color: #FFFFFF;
+    background: #333333;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+   
+}
+
+div.tipodesombra2{
+    padding-top: 2px;
+    font-size: 1.2em;
+    font-weight: bolder;
+    color: #e0dfdc;
+    background: #556677;
+    letter-spacing: .1em;
+    text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a,
+    0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e,
+    0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 
+    0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9);
+
+}
+
+div.tipodesombra3{
+    padding-top: 2px;
+    font-size: 1.2em;
+    font-weight: bolder;
+    color: rgba(255,255,255,.3);
+    background: #1a1a1a;
+    text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5);
+    
+}
+
+div.tipodesombra4{
+    padding-top: 2px;
+    font-size: 1.2em;
+    font-weight: bolder;
+    color: #FFFFFF;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    
+}
